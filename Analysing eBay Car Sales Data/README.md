@@ -1,8 +1,8 @@
-EDA of Ebay Car Sales Data
+# EDA of Ebay Car Sales Data
 
-**Goal:** *The purpose of this project is to clean the Ebay Auto Sales Data and evaluate the used car listings. For this project, we'll be using the pandas and NumPy modules.
+**Goal:** The purpose of this project is to clean the Ebay Auto Sales Data and evaluate the used car listings. For this project, we'll be using the pandas and NumPy modules.
 
-**Dataset:** We'll be working with a used automobile dataset from the German eBay website's listings, Kleinanzeigen area. The dataset file name is 'autos.csv' 
+**Dataset:** We'll be working with a used automobile dataset from the German eBay website's listings, Kleinanzeigen area. The dataset file name is ```autos.csv```. 
 
 ----------
 The data dictionary provided with data is as follows:
