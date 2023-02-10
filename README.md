@@ -1,8 +1,4 @@
-# Data Analysis Projects
-This repository is a series of notebooks that showcase my EDA projects on different datasets.
-
-<img width="776" alt="Screen Shot 2023-02-09 at 11 29 54 PM" src="https://user-images.githubusercontent.com/88107066/218000998-a0992cd5-fd49-4fbc-a0ee-cff99258c14c.png">
-
+<img width="743" alt="Screen Shot 2023-02-09 at 11 33 48 PM" src="https://user-images.githubusercontent.com/88107066/218001524-9baa243d-ca7a-42b3-bba3-e05b03ee6027.png">
 
 ## Overview:
 
