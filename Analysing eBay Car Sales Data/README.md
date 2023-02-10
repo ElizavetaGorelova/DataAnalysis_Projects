@@ -13,7 +13,7 @@ name: Name of the car.
 
 seller: Whether the seller is private or a dealer.
 
-offerType: The type of listing
+```offerType```: The type of listing
 
 price: The price on the ad to sell the car.
 
