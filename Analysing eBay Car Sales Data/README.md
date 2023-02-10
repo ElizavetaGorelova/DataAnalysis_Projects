@@ -1,4 +1,6 @@
-# EDA of Ebay Car Sales Data
+# EDA of eBay Car Sales Data
+
+![1200px-EBay_logo svg](https://user-images.githubusercontent.com/88107066/217976464-255da835-2b63-4c93-8603-6c515d5c2ae9.png)
 
 **Goal:** The purpose of this project is to clean the Ebay Auto Sales Data and evaluate the used car listings. For this project, we'll be using the pandas and NumPy modules.
 
