@@ -48,12 +48,3 @@
 ```postalCode```: The postal code for the location of the vehicle.
 
 ```lastSeenOnline```: When the crawler saw this ad last online.
-
-## Additional Information
-
-**Concepts Used:** pandas and NumPy modules
-
-**Programming Language:** Python
-
-**Environment:** Jupyter
-
