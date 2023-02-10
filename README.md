@@ -6,7 +6,7 @@
   - The goal of this project is to clean the Ebay Auto Sales Data and evaluate the used car listings.
 
 [Analysis of EUR-USD and EUR-GBP Exchange Rates](https://github.com/ElizavetaGorelova/DataAnalysis_Projects/tree/main/Analysis%20of%20EUR-USD%20and%20EUR-GBP%20Exchange%20Rates)
-  - The goal of this project is to investigate the variability of the exchange rates EUR-USD (United States) and EUR-GBP (United Kingdom) and determine their behavior during 2007-2008's financial crisis period. <img align="right" width="70" height="80" alt="Screen Shot 2023-02-09 at 11 41 06 PM" src="https://user-images.githubusercontent.com/88107066/218002475-a02ca65a-2fec-431e-a716-dadc965927c1.png">
+  - The goal of this project is to investigate the variability of the exchange rates EUR-USD (United States) and EUR-GBP (United Kingdom) and determine their behavior during 2007-2008's financial crisis period. <img align="right" width="138" height="118" alt="Screen Shot 2023-02-09 at 11 41 06 PM" src="https://user-images.githubusercontent.com/88107066/218002475-a02ca65a-2fec-431e-a716-dadc965927c1.png">
 
 
 [Analysis of NYC High School Data and SAT results](https://github.com/ElizavetaGorelova/DataAnalysis_Projects/blob/main/Analysis%20of%20NYC%20High%20School%20Data%20and%20SAT%20results/Analysis%20of%20NYC%20High%20School%20Data%20andSAT%20results.ipynb)
