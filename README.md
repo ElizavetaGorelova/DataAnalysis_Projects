@@ -18,9 +18,9 @@
 
 [Customers and Products Analysis](https://github.com/ElizavetaGorelova/DataAnalysis_Projects/blob/main/Customers%20and%20Products%20Analysis/Customers%20and%20Products%20Analysis.ipynb)
   - Reviewed and analyzed the dataset and made critical decisions about the company's potential future expansion. This project's purpose was to go over the concerns they have and extract solutions based on the data.
-
+<img align="right" width="152" alt="Screen Shot 2023-02-10 at 12 14 30 AM" src="https://user-images.githubusercontent.com/88107066/218006594-2506c140-ba90-42b1-a8d7-b2daec5b1770.png">
 [Analysing eBay Car Sales Data](https://github.com/ElizavetaGorelova/DataAnalysis_Projects/tree/main/Analysing%20eBay%20Car%20Sales%20Data)
-  - The goal of this project was to clean the Ebay Auto Sales Data and evaluate the used car listings. <img align="right" width="152" alt="Screen Shot 2023-02-10 at 12 14 30 AM" src="https://user-images.githubusercontent.com/88107066/218006594-2506c140-ba90-42b1-a8d7-b2daec5b1770.png">
+  - The goal of this project was to clean the Ebay Auto Sales Data and evaluate the used car listings. 
 
 
 [Heavy Traffic Indicators on I-94](https://github.com/ElizavetaGorelova/DataAnalysis_Projects/blob/main/Heavy%20Traffic%20Indicators%20on%20I-94/Heavy%20Traffic%20Indicators%20on%20I-94.ipynb)
