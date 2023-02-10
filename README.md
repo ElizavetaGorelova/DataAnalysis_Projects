@@ -1,3 +1,4 @@
 # Data Analysis Projects
 This repository is a series of notebooks that showcase my EDA projects on different datasets.
-![teacher-reading-book-while-standing](https://user-images.githubusercontent.com/88107066/217977537-46afdf90-3684-47da-8d98-c8c5cbc31e39.png)
+
+![Character-holding-tablet-pointing-pie-chart 1](https://user-images.githubusercontent.com/88107066/217978325-bd02ba39-4fc0-4c40-8543-a36cbd3ba5eb.png)
