@@ -11,15 +11,29 @@
 <img align="right" width="138" height="118" alt="Screen Shot 2023-02-09 at 11 41 06 PM" src="https://user-images.githubusercontent.com/88107066/218002475-a02ca65a-2fec-431e-a716-dadc965927c1.png">
 
 [Determining the Best Markets to Advertise In](https://github.com/ElizavetaGorelova/DataAnalysis_Projects/tree/main/Determining%20the%20Best%20Markets%20to%20Advertise%20In)
-  - A hypothetical e-learning company offers courses on programming, web and mobile development, data science, game development, and more. The company has tasked me with identifying the two best markets to advertise their product in.
+  - The project's goal was to help E-Learning company in increasing their clientele and find the two best markets to advertise programming courses (web and mobile development, data science, game development, and more).
 
 [Analysis of EUR-USD and EUR-GBP Exchange Rates](https://github.com/ElizavetaGorelova/DataAnalysis_Projects/tree/main/Analysis%20of%20EUR-USD%20and%20EUR-GBP%20Exchange%20Rates)
   - Investigated the variability of the exchange rates EUR-USD (United States) and EUR-GBP (United Kingdom) and determined their behavior during the 2007-2008's financial crisis period. Additionally, a quick observation of the variability of the EUR-GBP exchange rate from 2016 to 2019 (Brexit) was done.
 
 [Customers and Products Analysis](https://github.com/ElizavetaGorelova/DataAnalysis_Projects/blob/main/Customers%20and%20Products%20Analysis/Customers%20and%20Products%20Analysis.ipynb)
-  - This analysis aims to examine the questions and concerns the hypothetical company has and derive responses from the data. The goal is to review and analyze its dataset in order to make some critical decisions about potential future expansion.
+  - Reviewed and analyzed the dataset and made critical decisions about the company's potential future expansion. This project's purpose was to go over the concerns they have and extract solutions based on the data.
 
 [Analysing eBay Car Sales Data](https://github.com/ElizavetaGorelova/DataAnalysis_Projects/tree/main/Analysing%20eBay%20Car%20Sales%20Data)
   - The goal of this project was to clean the Ebay Auto Sales Data and evaluate the used car listings.
+
+[Heavy Traffic Indicators on I-94](https://github.com/ElizavetaGorelova/DataAnalysis_Projects/blob/main/Heavy%20Traffic%20Indicators%20on%20I-94/Heavy%20Traffic%20Indicators%20on%20I-94.ipynb)
+  - Examined the dataset and information regarding westbound traffic on the I-94 Interstate highway. The purpose of the analysis was to identify a few signs of excessive traffic on I-94.
+
+[Effective App Profiles for Google Play and the App Store](https://github.com/ElizavetaGorelova/DataAnalysis_Projects/blob/main/Effective%20App%20Profiles%20for%20Google%20Play%20and%20the%20App%20Store/Effective%20App%20Profiles%20for%20Google%20Play%20and%20the%20App%20Store.ipynb)
+  - The purpose of this project was to identify which categories of free apps are most likely to draw users and, consequently, generate more revenue through in-app ads.
+
+[Hackers News Posts](https://github.com/ElizavetaGorelova/DataAnalysis_Projects/blob/main/Hacker%20News%20Posts/Hacker%20News%20Posts.ipynb)
+  - Conducted a brief EDA on different types of postings from Hacker News, a well-known website where articles about technology are voted on and discussed.
+
+[Helicopter Escapes](https://github.com/ElizavetaGorelova/DataAnalysis_Projects/blob/main/Project_%20Prison%20Break/Helicopter_Escapes.ipynb)
+  - This is my first project! So, hey, don't take it serious... I think I did it pretty well as a beginner, so I'll just leave it here as a memory. The conclusion of this project is that the country with the most helicopter prison escape attempts is France.
+
+
 
 
