@@ -5,7 +5,7 @@
 **Dataset:** We'll be working with a used automobile dataset from the German eBay website's listings, Kleinanzeigen area. The dataset file name is ```autos.csv```. 
 
 ----------
-The data dictionary provided with data is as follows:
+**The data dictionary provided with data is as follows:**
 
 ```dateCrawled```: When this ad was first crawled. All field-values are taken from this date.
 
